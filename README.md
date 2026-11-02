@@ -1,5 +1,5 @@
 # -Ex.No-1a-Study-of-Socket-Programming
-# Ex.No:1a     Study of Socket Programming
+
 
 ## Name:ROHIT CJ
 ## Register number: 212224243005
