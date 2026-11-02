@@ -96,7 +96,8 @@ while True:
 
 ## Output:
 
-<img width="1312" height="393" alt="EX1COMPUTRE NE5" src="https://github.com/user-attachments/assets/259f8671-62b8-4b63-8836-19320e6881ba" />
+<img width="1111" height="298" alt="image" src="https://github.com/user-attachments/assets/8498ce07-8701-4bb8-90a4-6bbe04661836" />
+
 ## client & server
 
 
